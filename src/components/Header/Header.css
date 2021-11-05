@@ -1,0 +1,43 @@
+.header{
+    background-image: url('https://cdn5.f-cdn.com/contestentries/54965/4130531/52fc76fc3fde3_thumb900.jpg');
+   height: 500px;
+   width: 100%;
+   background-repeat: no-repeat;
+   background-size:cover;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   
+}
+.content{
+  height: 50%;
+
+}
+.content h1{
+  font-size: 40px;
+  font-weight: 700;
+
+}
+.abutUs{
+  border: none;
+  background-color: orange;
+  color:black;
+  padding: 5px 15px;
+  font-weight: 700;
+  margin-top: 5px;
+  text-decoration: none;
+
+}
+.content button:hover{
+    background-color: rgb(224, 153, 21);
+}
+.content h1 span{
+  color: orange;
+
+}
+@media only screen and (max-width:660px){
+    .content{
+        width: 80%;
+        margin: auto;
+    }
+}
