@@ -16,7 +16,6 @@ import Home from './components/Home/Home';
 import PlaceOrder from "./components/PlaceOrder/PlaceOrder";
 import Privateroute from "./components/Privateroute/Privateroute";
 import AuthProvider from "./context/AuthProvider";
-import ManageOrder from "./components/MyOrder/MyOrder";
 import MyOrder from "./components/MyOrder/MyOrder";
 import Manageorder from "./components/Manageorder/Manageorder";
 import Aboutus from "./components/Aboutus/Aboutus";
